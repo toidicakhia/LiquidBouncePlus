@@ -39,7 +39,7 @@ object LiquidBounce {
     const val CLIENT_NAME = "LiquidBounce+"
     const val CLIENT_VERSION = "260722-hotfix"
     const val CLIENT_CREATOR = "CCBlueX, exit-scammed"
-    const val CLIENT_CLOUD = "https://github.com/toidicakhia/LiquidBounceCloud"
+    const val CLIENT_CLOUD = "https://toidicakhia.github.io/LiquidBounceCloud/LiquidBounce"
 
     var isStarting = false
     var mainMenuPrep = false
