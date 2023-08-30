@@ -176,5 +176,4 @@ object LiquidBounce {
         // Shutdown discord rpc
         clientRichPresence.shutdown()
     }
-
 }
